@@ -12,4 +12,4 @@
 10. After Solving the conflict again add, commit and push it to your branch.
 11. Create pull request to merge with development branch remotely.
 12. If remote conflict occurred try to solve it or the reviwer will solve it.
-13. After merging delete the branch from both remote & local repository. (Best practice)
+13. After merging delete the branch from remote repository. (Best practice)
